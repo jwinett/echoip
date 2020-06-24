@@ -1,3 +1,15 @@
+```
+Forked!! For yet-to-be-written utility being added to Karen's Power Tools on Karenware.com
+or possibly a replacement of Karen WhoIs. 
+Regardless, I do believe running own server is the thing to do.  
+I might add some BGP Looking Glass functions.
+Use of echoip does not consitute an endorsement by its author and contributors of anything here.
+```
+
+
+                
+
+
 # echoip
 
 [![Build Status](https://travis-ci.org/mpolden/echoip.svg)](https://travis-ci.org/mpolden/echoip)
